@@ -39,7 +39,7 @@
 Проект доступен в браузере как web-приложение и может быть использован для демонстрации без установки дополнительного программного обеспечения.
 
 🔗 **Demo:**  
-https://sssanzhar04-ux.github.io/shokangrade/
+https://sanzhartech.github.io/shokangrade/
 
 ---
 
@@ -60,7 +60,7 @@ https://sssanzhar04-ux.github.io/shokangrade/
 
 ### Установка и запуск
 ```bash
-git clone https://github.com/sssanzhar04-ux/shokangrade.git
+git clone https://github.com/sanzhartech.github.io/shokangrade.git
 cd shokangrade
 flutter pub get
 flutter run -d chrome
